@@ -23,9 +23,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohslv5xBAsZ_cMmSYaFyXaUr4Yrg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'JhiqXxcp0KGaWyTY-2f7SXC5Vt6opD6P3BysQBT5Gzk',
+      useTemplateId: 'iJaw2eqE84R_oE3NK5hINtI5A5OTud3uS-AJVgoOn7w',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '5-19',
+      horoscopeDate: '05-19',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
